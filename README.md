@@ -1,2 +1,2 @@
-# snakeProjectC-
+# snakeProjectC#
 Snake game
