@@ -1,0 +1,17 @@
+﻿<Window x:Class="app.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:app"
+        mc:Ignorable="d"
+        Title="Snake" Height="840" Width="1567" Background="Lightgray" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    
+    <Grid>
+        <Canvas Name="Scoreboard" Height="840" Width="1567">  
+            <Rectangle Fill="Gray" Canvas.Left="0" Canvas.Top="0" Width="1567" Height="50" />
+        </Canvas>
+        <Canvas Name="GameCanvas" Height="750" Width="1500">
+        </Canvas>
+    </Grid>
+</Window>

@@ -1,0 +1,36 @@
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\bin\Debug\netcoreapp3.0\app.exe
+C:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\bin\Debug\netcoreapp3.0\app.deps.json
+C:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\bin\Debug\netcoreapp3.0\app.runtimeconfig.json
+C:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\bin\Debug\netcoreapp3.0\app.runtimeconfig.dev.json
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\bin\Debug\netcoreapp3.0\app.dll
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\bin\Debug\netcoreapp3.0\app.pdb
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\obj\Debug\netcoreapp3.0\app.csprojAssemblyReference.cache
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\obj\Debug\netcoreapp3.0\App.g.cs
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\obj\Debug\netcoreapp3.0\app_MarkupCompile.cache
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\obj\Debug\netcoreapp3.0\app_MarkupCompile.lref
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\obj\Debug\netcoreapp3.0\MainWindow.baml
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\obj\Debug\netcoreapp3.0\app.g.resources
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\obj\Debug\netcoreapp3.0\app.csproj.CoreCompileInputs.cache
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\obj\Debug\netcoreapp3.0\app.AssemblyInfoInputs.cache
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\obj\Debug\netcoreapp3.0\app.AssemblyInfo.cs
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\obj\Debug\netcoreapp3.0\app.dll
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c#\app\obj\Debug\netcoreapp3.0\app.pdb
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\bin\Debug\netcoreapp3.0\app.exe
+C:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\bin\Debug\netcoreapp3.0\app.deps.json
+C:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\bin\Debug\netcoreapp3.0\app.runtimeconfig.json
+C:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\bin\Debug\netcoreapp3.0\app.runtimeconfig.dev.json
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\bin\Debug\netcoreapp3.0\app.dll
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\bin\Debug\netcoreapp3.0\app.pdb
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\obj\Debug\netcoreapp3.0\app.csprojAssemblyReference.cache
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\obj\Debug\netcoreapp3.0\App.g.cs
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\obj\Debug\netcoreapp3.0\app_MarkupCompile.cache
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\obj\Debug\netcoreapp3.0\app_MarkupCompile.lref
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\obj\Debug\netcoreapp3.0\MainWindow.baml
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\obj\Debug\netcoreapp3.0\app.g.resources
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\obj\Debug\netcoreapp3.0\app.csproj.CoreCompileInputs.cache
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\obj\Debug\netcoreapp3.0\app.AssemblyInfoInputs.cache
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\obj\Debug\netcoreapp3.0\app.AssemblyInfo.cs
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\obj\Debug\netcoreapp3.0\app.dll
+c:\Users\Sturla\Desktop\for fun\Prosjekt6 - c# snake WPF\app\obj\Debug\netcoreapp3.0\app.pdb
