@@ -1,2 +1,2 @@
 # snakeProjectC#
-Snake game
+Snake game C# WPF
